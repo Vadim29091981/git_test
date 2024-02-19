@@ -1,4 +1,4 @@
-     UID     PID    PPID  TTY        STIME COMMAND
+      UID     PID    PPID  TTY        STIME COMMAND
    Admin    2129    1978 pty1     11:41:06 /usr/bin/ps
    Admin    1977       1 ?        10:37:30 /usr/bin/mintty
    Admin    1978    1977 pty1     10:37:31 /usr/bin/bash
